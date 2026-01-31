@@ -11,12 +11,8 @@ A fun English learning app with colorful animations and interactive exercises.
 
 ## Getting Started
 
-```bash
-npm install
-npm run dev
-```
-
-Opens at `http://localhost:8080`
+Go to https://ali-nasser-08.github.io/brilliance-class/
+That's about it
 
 ## Tech Stack
 
